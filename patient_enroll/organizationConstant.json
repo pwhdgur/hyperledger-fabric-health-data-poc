@@ -1,0 +1,14 @@
+{
+	"Hospital1":{
+		"path": "patient_project/patient_network/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.json",
+		 "msp": "Org1MSP",
+		 "ca": "ca.org1.example.com",
+		 "department": "org1.department1"
+	},
+	"Hospital2":{
+		"path": "patient_project/patient_network/test-network/organizations/peerOrganizations/org2.example.com/connection-org2.json",
+		"msp": "Org2MSP",
+		"ca": "ca.org2.example.com",
+		"department": "org2.department1"
+	}
+}
